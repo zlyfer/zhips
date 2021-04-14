@@ -1,0 +1,20 @@
+{
+  "name": "net.zlyfer.zhips",
+  "version": "0.0.1",
+  "description": "zhips",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "socket.io",
+    "battle",
+    "ship"
+  ],
+  "author": "Ferderik 'zlyfer' Shull",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0"
+  }
+}
